@@ -1,14 +1,12 @@
 # Hi, I'm Saleh Al-Hauthari 👋
 
 <div align="right">
-      <a href="https://buymeacoffee.com/salehalhauthari">
-    <img src="https://img.shields.io/badge/$-support-ff69b4.svg?style=flat" alt="Support me" />
-  </a>
+     
 </div>
 
 <p align="center">
   <a href="#">
-    <img width="100" src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Catwiki_icon.svg" alt="logo" />
+    <img width="100" src="https://www.svgrepo.com/show/381147/programming-code-application-development-computer.svg" alt="logo" />
   </a>
 </p>
 
@@ -36,24 +34,27 @@ I enjoy building things that make life easier, learning how systems work from th
 Currently, I'm focusing on improving my skills in **C++**, **Java**, **SQL**, and **Linux systems** — while exploring the world of **cybersecurity** and **open-source projects**.  
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salehalhauthari&layout=compact&hide_title=1&card_width=300" alt="Top languages used" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOWzZoKiCTuzvytosYBrEM3VpBnj1z_TLYGA&s" alt="Top languages used" />
+  <br />
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxtNisrMjAfCB0oOxjrvaSIZf4NWS5p6m_JA&s" alt="Top languages used" />
+  <br />
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjWqaNa5FT4GFLTnXN3abEeVxO1D7hZSt70SpsiRRNIafhYfsRkrj62ClRnDMQOZrE33w&usqp=CAU" alt="Top languages used" />
   <br />
   <small>Languages I use most often — big fan of C++ and problem-solving 💻</small>
   <br /><br />
 </div>
 
 A big believer in continuous learning, I love experimenting, reading about new tech, and sharing knowledge with others.  
-I'm open to collaborating on projects related to **security**, **software development**, and **AI**.
+I'm open to collaborating on projects related to **security**, **software development**, and **Huge Database**.
 
 <br />
 
 #### 📖 &nbsp;&nbsp;My Latest Projects & Articles
 
-* [Building My First Custom Linux Setup](#)
 * [Exploring the Basics of Cybersecurity](#)
 * [Creating a Responsive Portfolio Website](#)
 * [Database Optimization Techniques](#)
-* [Introduction to Problem Solving in C++](#)
+* [Practice Problem Solving in C++](#)
 
 <br />
 
@@ -61,14 +62,14 @@ I'm open to collaborating on projects related to **security**, **software develo
 
 * Technology & software development  
 * Cybersecurity  
-* Artificial Intelligence  
-* Hardware & electronics  
+* Machine Learning  
+* Hardware & OSs  
 * Reading and self-development  
 * Nature and minimalism  
 
 <br />
 
-<a href="mailto:saleh.alhauthari@example.com">
+<a href="mailto:salehsg353@gmail.com">
   <table align="right">
       <tr>
           <td>
