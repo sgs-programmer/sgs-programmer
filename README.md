@@ -51,10 +51,10 @@ I'm open to collaborating on projects related to **security**, **software develo
 
 #### 📖 &nbsp;&nbsp;My Latest Projects & Articles
 
-* [Exploring the Basics of Cybersecurity](#)
-* [Creating a Responsive Portfolio Website](#)
-* [Database Optimization Techniques](#)
-* [Practice Problem Solving in C++](#)
+* Exploring the Basics of Cybersecurity
+* Creating a Responsive Portfolio Website
+* Database Optimization Techniques
+* Practice Problem Solving in C++
 
 <br />
 
