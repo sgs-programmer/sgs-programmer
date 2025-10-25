@@ -1,22 +1,79 @@
-Hi there 👋 I'm **Saleh Al-Hauthari**, a passionate **Computer Science student** and **developer** who loves exploring technology, cybersecurity, and software engineering.
+# Hi, I'm Saleh Al-Hauthari 👋
 
-Over the past few years, I've been deeply interested in how systems work — from **hardware** to **software**, and how security and performance come together to build reliable solutions. My main focus areas are **Cybersecurity**, **Web Development**, and **Programming Languages** like C++, Java, and SQL.
+<div align="right">
+  <a href="https://buymeacoffee.com/salehalhauthari">
+    <img src="https://img.shields.io/badge/$-support-ff69b4.svg?style=flat" alt="Support me" />
+  </a>
+</div>
 
-I'm continuously expanding my skills through hands-on projects, open-source contributions, and exploring how technology can make life smarter and safer. I enjoy learning new tools, experimenting with Linux systems, and understanding the inner workings of computers.
+<p align="center">
+  <a href="#">
+    <img width="100" src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Catwiki_icon.svg" alt="logo" />
+  </a>
+</p>
 
-You can connect with me on [LinkedIn](#) for more details about my education, projects, and experience.  
-Feel free to reach out via email at [saleh.alhauthari@example.com](mailto:saleh.alhauthari@example.com).
+<p align="center" style="margin: -20px 0 30px">
+   <a href="https://twitter.com/" target="_blank" style='margin-right:10px'>
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="twitter" height="22px" width="22px" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://stackoverflow.com/users/" target="_blank" style='margin-right:10px'>
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="stackoverflow" height="22px" width="22px" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/" target="_blank" style='margin-right:10px'>
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="22px" width="22px" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:saleh.alhauthari@example.com" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/protonmail.svg" alt="email" height="22px" width="22px" />
+  </a>
+</p>
 
-### Blog & Projects
-Below are some of the topics and projects I'm currently exploring and writing about (coming soon 🚀):
+I'm a **Computer Science student** and **developer** passionate about **Cybersecurity**, **Web Development**, and **Software Engineering**.  
+I enjoy building things that make life easier, learning how systems work from the hardware level up to high-level applications.  
 
-<!-- BLOG_START -->
-- [Building My First Linux Environment from Scratch](/posts/linux-from-scratch)
-- [Understanding How Operating Systems Work](/posts/os-basics)
-- [Securing Web Applications with Simple Techniques](/posts/web-security)
-<!-- BLOG_END -->
+Currently, I'm focusing on improving my skills in **C++**, **Java**, **SQL**, and **Linux systems** — while exploring the world of **cybersecurity** and **open-source projects**.  
 
-### Credits
-Special thanks to everyone who has supported and inspired me on my journey in computer science and open-source development, including my teachers, colleagues, and the developer community that keeps sharing knowledge every day.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salehalhauthari&layout=compact&hide_title=1&card_width=300" alt="Top languages used" />
+  <br />
+  <small>Languages I use most often — big fan of C++ and problem-solving 💻</small>
+  <br /><br />
+</div>
 
-If you'd like to collaborate, share ideas, or support my projects, feel free to connect via [email](mailto:saleh.alhauthari@example.com) or [LinkedIn](#).
+A big believer in continuous learning, I love experimenting, reading about new tech, and sharing knowledge with others.  
+I'm open to collaborating on projects related to **security**, **software development**, and **AI**.
+
+<br />
+
+#### 📖 &nbsp;&nbsp;My Latest Projects & Articles
+
+* [Building My First Custom Linux Setup](#)
+* [Exploring the Basics of Cybersecurity](#)
+* [Creating a Responsive Portfolio Website](#)
+* [Database Optimization Techniques](#)
+* [Introduction to Problem Solving in C++](#)
+
+<br />
+
+#### 🧡 &nbsp;&nbsp;My Passions
+
+* Technology & software development  
+* Cybersecurity  
+* Artificial Intelligence  
+* Hardware & electronics  
+* Reading and self-development  
+* Nature and minimalism  
+
+<br />
+
+<a href="mailto:saleh.alhauthari@example.com">
+  <table align="right">
+      <tr>
+          <td>
+            👉 &nbsp;&nbsp;Contact me for collaborations
+          </td>
+      </tr>
+  </table>
+</a>
