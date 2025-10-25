@@ -1,7 +1,6 @@
 # Hi, I'm Saleh Al-Hauthari 👋
 
 <div align="right">
-  <a href="https://buymeacoffee.com/salehalhauthari">
     <img src="https://img.shields.io/badge/$-support-ff69b4.svg?style=flat" alt="Support me" />
   </a>
 </div>
