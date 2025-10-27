@@ -34,14 +34,9 @@ I enjoy building things that make life easier, learning how systems work from th
 Currently, I'm focusing on improving my skills in **C++**, **Java**, **SQL**, and **Linux systems** — while exploring the world of **cybersecurity** and **open-source projects**.  
 
 <div align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOWzZoKiCTuzvytosYBrEM3VpBnj1z_TLYGA&s" alt="Top languages used" />
+  <img src="https://static.vecteezy.com/system/resources/previews/023/557/603/non_2x/binary-code-minimalist-and-flat-logo-illustration-vector.jpg" width= 500 high= 500/>
   <br />
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxtNisrMjAfCB0oOxjrvaSIZf4NWS5p6m_JA&s" alt="Top languages used" />
-  <br />
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjWqaNa5FT4GFLTnXN3abEeVxO1D7hZSt70SpsiRRNIafhYfsRkrj62ClRnDMQOZrE33w&usqp=CAU" alt="Top languages used" />
-  <br />
-  <small>Languages I use most often — big fan of C++ and problem-solving 💻</small>
-  <br /><br />
+<br />
 </div>
 
 A big believer in continuous learning, I love experimenting, reading about new tech, and sharing knowledge with others.  
@@ -69,7 +64,7 @@ I'm open to collaborating on projects related to **security**, **software develo
 
 <br />
 
-<a href="mailto:salehsg353@gmail.com">
+<a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMTkJg-6wOwpvGzosoCPs2GdkJNromxLxcIQ&s">
   <table align="right">
       <tr>
           <td>
