@@ -63,13 +63,3 @@ I'm open to collaborating on projects related to **security**, **software develo
 * Nature and minimalism  
 
 <br />
-
-<a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMTkJg-6wOwpvGzosoCPs2GdkJNromxLxcIQ&s">
-  <table align="right">
-      <tr>
-          <td>
-            👉 &nbsp;&nbsp;Contact me for collaborations
-          </td>
-      </tr>
-  </table>
-</a>
